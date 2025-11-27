@@ -57,3 +57,5 @@ This Windows-based GUI application, developed for G-Machine AI, allows users to 
 
 # Summary
 The G-Machine AI Model Training GUI simplifies model training through a user-friendly WPF application. With configurable training parameters, GPU monitoring, real-time logging, and checkpointing, users can experience a controlled and secure training process. This interface serves as an effective training management tool for both beginners and experienced users.
+# Download link;
+- https://github.com/Gexnys/G-Machine-GUI/releases/tag/G-MachineGUI
